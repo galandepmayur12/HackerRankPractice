@@ -1,5 +1,5 @@
 
-package javaLanguage;
+package javaLanguage.introduction;
 
 import java.util.Scanner;
 

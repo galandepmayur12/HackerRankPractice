@@ -1,4 +1,4 @@
-package javaLanguage;
+package javaLanguage.introduction;
 
 import java.io.BufferedReader;
 import java.io.IOException;

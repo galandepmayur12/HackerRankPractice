@@ -1,4 +1,4 @@
-package javaLanguage;
+package javaLanguage.introduction;
 
 public class OutputFormatting {
 
